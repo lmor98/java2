@@ -28,6 +28,7 @@ public class Java2 {
         tipoMotor = valorTipoMotor;
     }
     public String getMatricula () { return matricula; }
+    //segundo metodo
     public String getDistrito () { return distrito; }
     public int getTipoMotor () { return tipoMotor; }
     
